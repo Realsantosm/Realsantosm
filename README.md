@@ -27,3 +27,6 @@ About Github Beginners
 HTML5 | CSS3 | REACT | BOOTSTRAP | FIREBASE | GIT |
 JAVASCRIPT | MONGODB | MYSQL | NODEJS | POSTMAN | 
       PYTHON | TAILWIND | WORDPRESS
+      
+      
+[![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Realsantosm)](https://github.com/anuraghazra/github-readme-stats)
