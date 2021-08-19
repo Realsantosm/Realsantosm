@@ -29,4 +29,4 @@ JAVASCRIPT | MONGODB | MYSQL | NODEJS | POSTMAN |
       PYTHON | TAILWIND | WORDPRESS
       
       
-[![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Realsantosm)](https://github.com/anuraghazra/github-readme-stats)
+[![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Realsantosm)](https://github.com/Realsantosm/github-readme-stats)
