@@ -35,10 +35,6 @@ https://www.github.com/Realsantosm/
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realsantosm&show_icons=true&locale=en&layout=compact" alt="realsantosm" /></p>
 
 
-
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Realsantosm)](https://github.com/anuraghazra/github-readme-stats)
-
      
 ![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realsantosm&show_icons=true&theme=radical)
 
