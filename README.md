@@ -28,7 +28,8 @@ HTML5 | CSS3 | REACT | BOOTSTRAP | FIREBASE | GIT |
 JAVASCRIPT | MONGODB | MYSQL | NODEJS | POSTMAN | 
       PYTHON | TAILWIND | WORDPRESS
       
- ![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realsantosm&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Realsantosm)](https://github.com/anuraghazra/github-readme-stats)
+
      
 ![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realsantosm&show_icons=true&theme=radical)
 
