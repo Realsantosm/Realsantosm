@@ -1,5 +1,5 @@
 ---------------------------------------------------
-# 👋 Hello | Enthusiast Software Developer Here
+# 👋 Hello | Enthusiast FrontEnd Software Developer Here
 ---------------------------------------------------
 Hi 👋, I'm Santosh Murmu (Santos Mmu)
 A Beginner UI Designer, An Intermediate Web Developer and An Expert Learner.
