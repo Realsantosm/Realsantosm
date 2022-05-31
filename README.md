@@ -5,7 +5,7 @@ Hi 👋, I'm Santosh Murmu (Santos Mmu)
 A Beginner UI Designer, An Intermediate Web Developer and An Expert Learner.
 https://www.github.com/Realsantosm/
 
-🌱 Polishing my Skills in NodeJs, ExpressJs and MongoDb.
+🌱 Polishing my Skills in JavaScript, HTML and CSS.
 
 👨‍💻 I like to showcase my work, check it out at angrysantos.netlify.app
 
@@ -19,7 +19,7 @@ https://www.github.com/Realsantosm/
 
 ⚡ Fun fact I love to create websites, using Vanilla CSS, rather than using frameworks or libraries!
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate <span style="color : red; font-weight: bold">Frontend</span> <span style="color : yellow; font-weight: bold">Developer</span> from India</h3>
 
 <p align="left"> <a href="https://twitter.com/santossmmu" target="blank"><img src="https://img.shields.io/twitter/follow/santossmmu?logo=twitter&style=for-the-badge" alt="santossmmu" /></a> </p>
 
