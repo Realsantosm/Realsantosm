@@ -13,11 +13,11 @@ https://www.github.com/Realsantosm/
 
 💬 Hit me up, for discussions regarding HTML, CSS, JavaScript and ReactJs.
 
-📫 Drop your query, or even simply a "HI 👋" on LinkedIn the link is on the site above.
+📫 Drop your query, or even simply a "Hi 👋" on [LinkedIn](https://www.linkedin.com/in/santoshmurmu/) the link is on the site above.
 
 📄 Want to hire me? DM me at LinkedIn
 
-⚡ Fun fact I love to create websites, using Vanilla CSS, rather than using frameworks or libraries!
+⚡ Fun fact I love to create websites, using Vanilla CSS, rather than using frameworks or libraries! Some of my recent works been updated with the latest framework and libraries.
 
 <h3 align="center">A passionate <span style="color : red; font-weight: bold">Frontend</span> <span style="color : yellow; font-weight: bold">Developer</span> from India</h3>
 
