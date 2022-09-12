@@ -5,9 +5,9 @@ Hi 👋, I'm Santosh Murmu (Santos Mmu)
 A Beginner UI Designer, An Intermediate Web Developer and An Expert Learner.
 https://www.github.com/Realsantosm/
 
-🌱 Polishing my Skills in JavaScript, HTML and CSS.
+🌱 Polishing my Skills in **JavaScript**, **HTM**L & ***CSS***.
 
-👨‍💻 I like to showcase my work, check it out at angrysantos.netlify.app
+👨‍💻 I like to showcase my work, check it out at ## angrysantos.netlify.app
 
 📝 I love to write technical blogs to help beginners get started! Check them out at above link
 
