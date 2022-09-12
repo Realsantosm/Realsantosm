@@ -13,9 +13,11 @@ https://www.github.com/Realsantosm/
 
 💬 Hit me up, for discussions regarding HTML, CSS, JavaScript and ReactJs.
 
-📫 Drop your query, or even simply a "Hi 👋" on [LinkedIn](https://www.linkedin.com/in/santoshmurmu/) the link is on the site above.
+📫 Drop your query, or even simply a "Hi 👋" on [LinkedIn](https://www.linkedin.com/in/santoshmurmu/) the link is on the site below.
 
 📄 Want to hire me? DM me at LinkedIn
+![LinkBioGIF](https://user-images.githubusercontent.com/65150646/189575199-49665116-b806-4b6d-bd94-93e5d69f708c.gif height:"100px" border-radius : "150px" "150px" "150px" "150px")
+
 
 ⚡ Fun fact I love to create websites, using Vanilla CSS, rather than using frameworks or libraries! Some of my recent works been updated with the latest framework and libraries.
 
