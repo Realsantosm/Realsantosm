@@ -7,7 +7,7 @@ https://www.github.com/Realsantosm/
 
 🌱 Polishing my Skills in **JavaScript**, **HTM**L & ***CSS***.
 
-👨‍💻 I like to showcase my work, check it out at ## angrysantos.netlify.app
+👨‍💻 I like to showcase my work, check it out at -angrysantos.netlify.app-
 
 📝 I love to write technical blogs to help beginners get started! Check them out at above link
 
