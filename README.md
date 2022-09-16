@@ -40,11 +40,7 @@ https://www.github.com/Realsantosm/
      
 ![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realsantosm&show_icons=true&theme=radical)
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
