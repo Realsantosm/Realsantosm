@@ -2,7 +2,12 @@
 # <img width="50" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hello | Enthusiast FrontEnd Software Developer Here
 ---------------------------------------------------
 
-<img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="center" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+
+
+
+
 
 
 
