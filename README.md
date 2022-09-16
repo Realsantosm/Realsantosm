@@ -44,7 +44,12 @@ https://www.github.com/Realsantosm/
      
 ![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realsantosm&show_icons=true&theme=radical)
 
+<br><br>
 
+<a href="https://github.com/Realsantosm/Realsantosm">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Realsantosm&theme=radical&hide_border=true)](https://github.com/Realsantosm" alt="Rahul's GitHub Stats Graph"/>
+</a>
+<br><br>
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
