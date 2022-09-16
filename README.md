@@ -1,6 +1,10 @@
 ---------------------------------------------------
 # 👋 Hello | Enthusiast FrontEnd Software Developer Here
 ---------------------------------------------------
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+
 Hi 👋, I'm Santosh Murmu (Santos Mmu)
 A Beginner UI Designer, An Intermediate Web Developer and An Expert Learner.
 https://www.github.com/Realsantosm/
