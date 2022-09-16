@@ -2,7 +2,7 @@
 # 👋 Hello | Enthusiast FrontEnd Software Developer Here
 ---------------------------------------------------
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
 Hi 👋, I'm Santosh Murmu (Santos Mmu)
