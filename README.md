@@ -1,11 +1,13 @@
 ---------------------------------------------------
-# 👋 Hello | Enthusiast FrontEnd Software Developer Here
+# <img width="50" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hello | Enthusiast FrontEnd Software Developer Here
 ---------------------------------------------------
 
 <img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-<h1 align="center">Hi , I'm Azzar</h1>
-**Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Santosh Murmu (Santos Mmu)**
+
+
+**Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Santosh Murmu (Santos Mmu)**
+
 A Beginner UI Designer, An Intermediate Web Developer and An Expert Learner.
 https://www.github.com/Realsantosm/
 
