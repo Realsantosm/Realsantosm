@@ -13,14 +13,14 @@
 
 **Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Santosh Murmu (Santos Mmu)**
 
-A Beginner UI Designer, An Intermediate Web Developer and An Expert Learner.
+A passionate UI Designer, An Intermediate Web Developer and An Expert Learner.
 https://www.github.com/Realsantosm/
 
-🌱 Polishing my Skills in **JavaScript**, **HTML** & ***CSS***.
+🌱 Polishing my Skills in **JavaScript**,**ReactJs** , **HTML** & ***CSS***.
 
 👨‍💻 I like to showcase my work, check it out at __angrysantos.netlify.app__
 
-📝 I love to write technical blogs to help beginners get started! Check them out at above link
+📝 I love to write technical blogs to help beginners get started! Check them out at above [Hashnode](https://santosmmu.hashnode.dev/)
 
 💬 Hit me up, for discussions regarding HTML, CSS, JavaScript and ReactJs.
 
