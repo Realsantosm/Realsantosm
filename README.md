@@ -19,7 +19,7 @@
 - 🔗 <img src="https://user-images.githubusercontent.com/65150646/189575199-49665116-b806-4b6d-bd94-93e5d69f708c.gif" width="50" height="30" borderRadius="50%"/>
 ---
 
-<h2 align="center"><b>INDIA</b></h2>
+<h2 align="center" font-size="35px"><b>INDIA</b></h2>
 
 <p align="left"> <a href="https://twitter.com/santossmmu" target="blank"><img src="https://img.shields.io/twitter/follow/santossmmu?logo=twitter&style=for-the-badge" alt="santossmmu" /></a> </p>
 
