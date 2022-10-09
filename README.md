@@ -1,5 +1,5 @@
 ---------------------------------------------------
-# Hello <img width="50" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> !  **Software Engineer** Here.
+# Hello <img width="50" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> **FrontEnd Developer/Engineer** Here.
 ---------------------------------------------------
 
 <img align="center" alt="GIF" height="400px" width="1050px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
