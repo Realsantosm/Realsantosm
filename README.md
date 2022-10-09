@@ -2,7 +2,7 @@
 # Hello <img width="50" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> !  **Software Engineer** Here.
 ---------------------------------------------------
 
-<img align="center" alt="GIF" height="260px" width="500px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="center" alt="GIF" height="260px" width="900px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
 
