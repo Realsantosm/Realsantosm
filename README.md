@@ -49,7 +49,6 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Realsantosm&theme=radical&hide_border=true)](https://github.com/Realsantosm" alt="Rahul's GitHub Stats Graph"/>
 </a>
 <br><br>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/24b9a130-08ca-4298-919a-3ca84377e4e7/deploy-status)](https://app.netlify.com/sites/todo-app-knoob/deploys)
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
