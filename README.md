@@ -3,7 +3,7 @@
 ![SantosMmu](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=F78619&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Santos+Murmu;I'm+a+Frontend+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+WRITE+CODE.)
   
 </div>
----
+
 <img align="center" alt="GIF" height="400px" width="1050px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## I'm <b>Santos Murmu</b>
@@ -49,7 +49,7 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Realsantosm&theme=radical&hide_border=true)](https://github.com/Realsantosm" alt="Rahul's GitHub Stats Graph"/>
 </a>
 <br><br>
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24b9a130-08ca-4298-919a-3ca84377e4e7/deploy-status)](https://app.netlify.com/sites/todo-app-knoob/deploys)
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
