@@ -4,7 +4,7 @@
   
 </div>
 
-<img align="center" alt="GIF" height="400px" width="1050px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<!-- <img align="center" alt="GIF" height="400px" width="1050px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> -->
 
 ## I'm <b>Santos Murmu</b>
 
