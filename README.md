@@ -1,6 +1,6 @@
 <div align="center">
   
-![SantosMmu](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=F78619&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Santos+Murmu;I'm+a+FullStack+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+WRITE+CODE.+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;@neoGCamp+2023.)
+![SantosMmu](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=F78619&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Santos+Murmu;I'm+a+FullStack+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+WRITE+CODE.+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;@BytR+Backend+Developer+2024-25.)
   
 </div>
 
