@@ -1,6 +1,6 @@
 <div align="center">
   
-![SantosMmu](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=F78619&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Santos+Murmu;I'm+a+FullStack+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+WRITE+CODE.+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;@BytR+Backend+Developer+2024-25.)
+![SantosMmu](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=700&color=F78619&center=true&width=435&lines=Hola!%F0%9F%99%8B+I'm+Santos+Murmu;I'm+a+FullStack+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;I+WRITE+CODE.+%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B0;@BytR+Backend+Developer+2024-25+&+also+exploring+NextJs.)
   
 </div>
 
@@ -12,9 +12,9 @@
 - 💖 Exploring new technologies 🧑‍💻
 - ⚡️ Learning JavaScript and Advance concepts
 - 🎯 Goal: FrontEnd Engineer
-- 🥅 2023 Goals: Contributions on Open Source, teaching, <b>Job</b>
+- 🥅 2026 Goals: Contributions on Open Source, teaching, <b>Job</b>
 - 📫 Want to Hire me: simply DM  "Hi 👋: JDs" on [LinkedIn](https://www.linkedin.com/in/santoshmurmu/)
-- 🛠️ Polishing my Skills in **JavaScript**,**ReactJs** , **HTML** & ***CSS***.
+- 🛠️ Polishing my Skills in **JavaScript**,**ReactJs**, **NEXTJs**, **HTML** & ***CSS***.
 - 👨‍💻 I like to showcase my work, check it out at __angrysantos.netlify.app__
 - 📝 Technical blogs:  [Hashnode](https://santosmmu.hashnode.dev/)
 - 💬 Hit me up, for discussions on HTML, CSS, JavaScript and ReactJs.
